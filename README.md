@@ -4,30 +4,10 @@
 </div> 
 
 
-### Team Member  and Responsibilities 
-
- Milak Alqathami:
- - Data Collection (Web Scraping)
- - Data Modeling ML 
 
    
 
- Lina Alqahtani:
- - Preprocessing 
- - Data Visualization
- - Data Modeling ML
- - Flowchart
- 
 
-Razan Alqahtani:
- - Deploy the Model
- - Artificial Ignorance
- - Web Interface
-
-  
-Alaa AlSalman:
-  - Web Interface
-  - Dashboard
 
 
    ## Introduction:
