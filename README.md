@@ -1,8 +1,4 @@
 # Musa'ed Safir 
-<div align="left">
-    <img src="two.png" width='300'>
-</div> 
-
 
 
    
@@ -34,12 +30,6 @@
   
    In conclusion, our web application successfully provides personalized university recommendations based on user input. The integration of various AI technologies and our Random Forest model contributes to the accuracy and effectiveness of the recommendation system.
 
-
-## Dashboard
-
-<div align="Center">
-    <img src="dassh.jpeg" width='700'>
-</div> 
 
 
 
