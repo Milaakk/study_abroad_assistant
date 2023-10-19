@@ -9,8 +9,7 @@
  Milak Alqathami:
  - Data Collection (Web Scraping)
  - Data Modeling ML 
- - Presentation Slides
- - Logo
+
    
 
  Lina Alqahtani:
